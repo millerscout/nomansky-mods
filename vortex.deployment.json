@@ -1,0 +1,53 @@
+{
+  "instance": "b29b8ffd-4224-4c52-9211-392e0c9f80f4",
+  "version": 1,
+  "deploymentMethod": "hardlink_activator",
+  "gameId": "nomanssky",
+  "deploymentTime": 1693349381249,
+  "stagingPath": "D:\\mods\\No Man s Sky",
+  "targetPath": "D:\\SteamLibrary\\steamapps\\common\\No Man's Sky\\GAMEDATA\\PCBANKS\\MODS",
+  "files": [
+    {
+      "relPath": "tech20.pak",
+      "source": "More tech salvage 10-20 for Echoes update-2341-4-41-1693144933",
+      "target": "",
+      "time": 1693144458000
+    },
+    {
+      "relPath": "Optional LUA file\\Tech20.lua",
+      "source": "More tech salvage 10-20 for Echoes update-2341-4-41-1693144933",
+      "target": "",
+      "time": 1693141820000
+    },
+    {
+      "relPath": "Optional LUA file\\4hrlivingship.lua",
+      "source": "Living Ship Ready In 4 Hours-2453-4-41-1693144762",
+      "target": "",
+      "time": 1693141800000
+    },
+    {
+      "relPath": "4hrlivingship.pak",
+      "source": "Living Ship Ready In 4 Hours-2453-4-41-1693144762",
+      "target": "",
+      "time": 1693144174000
+    },
+    {
+      "relPath": "Fast Actions 5.8.lua",
+      "source": "Fast Actions 5.8-1081-5-8-1693312285",
+      "target": "",
+      "time": 1693311949000
+    },
+    {
+      "relPath": "Installation Notes for Fast Actions.txt",
+      "source": "Fast Actions 5.8-1081-5-8-1693312285",
+      "target": "",
+      "time": 1571502572000
+    },
+    {
+      "relPath": "Fast Actions 5.8.pak",
+      "source": "Fast Actions 5.8-1081-5-8-1693312285",
+      "target": "",
+      "time": 1693312035000
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+Hi and thanks for trying my mods.
+
+Please follow these steps in order to install this mod.
+
+Installation :
+- remove or rename DISABLEMODS.TXT file from PCBANKS folder (I rename it into ENABLEMODS.TXT)
+- create a MODS folder into \Program Files (x86)\Steam\steamapps\common\No Man's Sky\GAMEDATA\PCBANKS folder
+- copy/paste included .pak file into this MODS folder
+
+
+Merging mods using AMUMSS (if you have other .lua mods that could conflict with this one) :
+- copy the .lua file provided into AMUMSS' ModScript folder
+- add your other .lua mods in this same folder
+- change the path toward your NMS installation in AMUMSS' NMS_FOLDER.txt file
+- Click on BuildMod.bat and follow the steps
+- Find your final .pak file in AMUMSS' CreatedModPak folder and install it as specified above.
+
+
+That's all.
+
+Enjoy :)
+
+Lo2k
